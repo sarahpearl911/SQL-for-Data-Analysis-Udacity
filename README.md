@@ -6,5 +6,6 @@ I'll be keeping a record of the SQL I write throughout the course in this repo.
 
 Below is the schema that was used for the majority of the practice questions in the course-
 
-![image](https://user-images.githubusercontent.com/106031283/188230490-ff2ec377-6a3d-4840-97d9-d0c663b4b117.png)
+![image](https://user-images.githubusercontent.com/106031283/188283985-373f67a4-ab48-4a95-b825-10de603afffa.png)
+
 
